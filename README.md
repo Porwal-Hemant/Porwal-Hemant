@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwal-hemant" alt="porwal-hemant" /></a> </p>
 
-- 🔭 I’m currently working on [PulseVibe](https://pulsevibe1.onrender.com/)
+-  I’m currently working on [PulseVibe](https://pulsevibe1.onrender.com/)
 
-- 🌱 I’m currently learning **Next.js**
+-  I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **extensive backend related projects.**
+-  I’m looking to collaborate on **extensive backend related projects.**
 
 - 💬 Ask me about **Backend Development (Node.js, Express.js, MongoDB), Frontend Development with React, RESTful API Design & Integration, Authentication, Authorization & JWT, State Management (Redux, Context API), Machine Learning with PyTorch, Computer Vision using OpenCV & YOLO, Image Processing & Object Detection, Model Training, Evaluation & Deployment, Building Scalable Full Stack Applications.**
 
-- 📫 How to reach me **hemantporwal2k3@gmail.com**
+-  How to reach me **hemantporwal2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
